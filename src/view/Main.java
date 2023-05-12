@@ -3,7 +3,7 @@ package view;
 public class Main {
 	public static void main(String[] args) {
 		
-		int numero = 123123123;
+		int numero = 393253;
 		int num = 3;
 		int total = recursivaVezes(numero, num);
 		System.out.println(total);
